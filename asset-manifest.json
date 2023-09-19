@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stickerShop/static/css/main.a4838356.css",
+    "main.js": "/stickerShop/static/js/main.9556b1f6.js",
+    "index.html": "/stickerShop/index.html",
+    "main.a4838356.css.map": "/stickerShop/static/css/main.a4838356.css.map",
+    "main.9556b1f6.js.map": "/stickerShop/static/js/main.9556b1f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4838356.css",
+    "static/js/main.9556b1f6.js"
+  ]
+}
