@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/stickerShop/static/css/main.a4838356.css",
-    "main.js": "/stickerShop/static/js/main.95196c7b.js",
+    "main.js": "/stickerShop/static/js/main.89184689.js",
     "index.html": "/stickerShop/index.html",
     "main.a4838356.css.map": "/stickerShop/static/css/main.a4838356.css.map",
-    "main.95196c7b.js.map": "/stickerShop/static/js/main.95196c7b.js.map"
+    "main.89184689.js.map": "/stickerShop/static/js/main.89184689.js.map"
   },
   "entrypoints": [
     "static/css/main.a4838356.css",
-    "static/js/main.95196c7b.js"
+    "static/js/main.89184689.js"
   ]
 }
