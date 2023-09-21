@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stickerShop/static/css/main.a4838356.css",
-    "main.js": "/stickerShop/static/js/main.94a9dccb.js",
+    "main.js": "/stickerShop/static/js/main.bab564c0.js",
     "static/media/Nerd-Rage.jpg": "/stickerShop/static/media/Nerd-Rage.b3189716120ac1ef5110.jpg",
     "static/media/I-am-Programmer.jpg": "/stickerShop/static/media/I-am-Programmer.22bc8b136bd3d64f7a2b.jpg",
     "static/media/Hacker-Inside.jpg": "/stickerShop/static/media/Hacker-Inside.d963b28d2e3dd68b3eef.jpg",
@@ -58,10 +58,10 @@
     "static/media/Node.jpg": "/stickerShop/static/media/Node.e6ec688bb92a84ceff3f.jpg",
     "index.html": "/stickerShop/index.html",
     "main.a4838356.css.map": "/stickerShop/static/css/main.a4838356.css.map",
-    "main.94a9dccb.js.map": "/stickerShop/static/js/main.94a9dccb.js.map"
+    "main.bab564c0.js.map": "/stickerShop/static/js/main.bab564c0.js.map"
   },
   "entrypoints": [
     "static/css/main.a4838356.css",
-    "static/js/main.94a9dccb.js"
+    "static/js/main.bab564c0.js"
   ]
 }
